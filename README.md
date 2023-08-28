@@ -1,7 +1,7 @@
 <h1 align="center">Hola Me llamo Hernán Robles Rios</h1>
 <h3 align="center">Desarrollador Full Stack Python trainee en formación, con gran interés, proactividad, constancia por aprender junto a los equipos de trabajo y ser aporte en la empresa</h3>
 
-- Mis proyector realizados [https://github.com/hrobrios?tab=repositories](https://github.com/hrobrios?tab=repositories)
+- Mis proyector realizados [(https://hrobrios.github.io/CV-HRR/)]
 
 - 💬 Ask me about **Python – Django- JavaScript- Html5 Sql – Postgres – Java- Github – Git Angular – Node JS**
 
